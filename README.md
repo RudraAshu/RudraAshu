@@ -6,9 +6,8 @@ I'm a Computer Science & Engineering Master's student at Ohio State University, 
 - 🧱 Building and optimizing data-driven applications to improve efficiency and user engagement.
 - ☕ Exploring new skills like latte art in my free time — because great code starts with great coffee!
 - 🧑‍💻 Collaborating on innovative AI projects, like traffic optimization and real-time recommendation systems.
-- 💬 Proficient in languages and frameworks like Python, Java, and JavaScript. Ask me about my latest project!
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have a pet bunny named Coco who often accompanies me during my coding sessions!
+- ⚡ Fun fact: I have a pet bunny, named Coco who often accompanies me during my coding sessions!
 
 ## My Tech Journey 🚀
 - 🔍 Focused on AI, Machine Learning, and Full-Stack Development.
