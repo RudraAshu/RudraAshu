@@ -1,4 +1,12 @@
-### Hi there, I am Ashutosh 👋
+### 👋 You've reached the GitHub profile of Ashutosh!
+
+## Ashutosh Rudraksh (Ash is fine!) 
+
+* **Unlocking LLMs** at The Ohio State University  (think code safety & future-proofing these AI wonders)
+* **Crafting with Code** 🪄 (Python & PyTorch potions for personalized experiences, Netflix with a twist anyone?)
+* **Lifelong Learner**  (crushing courses & pushing boundaries, 9.43/10.0 GPA anyone?)
+* **Tech Catalyst**  (igniting passion, 400+ volunteer hrs spent empowering others with LLMs)
+* **Full-Stack Swiss Army Knife**  (C++, Python, Java, JS, Django, PyTorch, you name it!)
 
 <!--
 **RudraAshu/RudraAshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
