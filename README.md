@@ -1,13 +1,10 @@
-### 👋 You've reached the GitHub profile of Ashutosh!
+### 👋 You've reached the GitHub profile of Ashutosh (Ashu is fine!) 😎!
 
-## Ashutosh Rudraksh (Ash is fine!) 
+- 🎓 I am currently 1st year Graduate CSE student at The Ohio State University.
+- 💻 Focused on Full Stack/SWE Development.
+- 🎤 Podcast and reading in my spare time.
 
-* **Unlocking LLMs** at The Ohio State University  (think code safety & future-proofing these AI wonders)
-* **Crafting with Code** 🪄 (Python & PyTorch potions for personalized experiences, Netflix with a twist anyone?)
-* **Lifelong Learner**  (crushing courses & pushing boundaries, 9.43/10.0 GPA anyone?)
-* **Tech Catalyst**  (igniting passion, 400+ volunteer hrs spent empowering others with LLMs)
-* **Full-Stack Swiss Army Knife**  (C++, Python, Java, JS, Django, PyTorch, you name it!)
-
+I'm currently on the lookout for an intern role in software development, ideally writing Python. If you're hiring, let's chat!
 <!--
 **RudraAshu/RudraAshu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
